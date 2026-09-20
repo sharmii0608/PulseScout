@@ -172,23 +172,13 @@ The citizen interface allows a user to activate emergency mode and share importa
 
 ---
 
-## 4. 🚨 Disaster Alert Mode
-
-The disaster alert interface provides users with an immediate visual indication that the application is operating in emergency mode.
-
-### Screenshot
-
-![PulseScout Disaster Alert Mode](./screenshots/disaster-alert.png)
-
----
-
-## 5. 🗺️ Safe Route / Navigation
+## 4. 🗺️ Safe Route / Navigation
 
 The application can provide location-based navigation and safe-route guidance for emergency situations.
 
 ### Screenshot
 
-![PulseScout Safe Route](./screenshots/safe-route.png)
+![PulseScout Safe Route](./image%20(6).png)
 
 ---
 
