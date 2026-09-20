@@ -118,7 +118,7 @@ The EOC dashboard provides rescue teams with a high-contrast tactical interface 
 
 ### Screenshot
 
-![PulseScout Rescuer Tactical Radar Dashboard](./screenshots/rescuer-dashboard.png)
+![PulseScout Rescuer Tactical Radar Dashboard](./image%20(2).png)
 
 **Highlights:**
 
