@@ -137,6 +137,7 @@ The triage panel provides rescue personnel with detailed information about an in
 
 ### Screenshot
 
+![PulseScout AI Triage Panel](./image%20(4).png)
 ![PulseScout AI Triage Panel](./image%20(5).png)
 
 **Displayed information may include:**
