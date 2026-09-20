@@ -159,7 +159,7 @@ The citizen interface allows a user to activate emergency mode and share importa
 
 ### Screenshot
 
-![PulseScout Citizen Emergency App](./screenshots/citizen-app.png)
+![PulseScout Citizen Emergency App](./image%20(2).png)
 
 **Key interface elements:**
 
